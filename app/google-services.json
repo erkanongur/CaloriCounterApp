@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "885160215775",
+    "firebase_url": "https://diyetkolik-c2098.firebaseio.com",
+    "project_id": "diyetkolik-c2098",
+    "storage_bucket": "diyetkolik-c2098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885160215775:android:ca4f7a19cefd0a4e48556a",
+        "android_client_info": {
+          "package_name": "com.example.diyetkolik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885160215775-imiv0ta3ceqndmsfa7r2s5am9jdksf1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diyetkolik",
+            "certificate_hash": "270de7eaeb87fd48325bfe3239d6bda67f0e1ed0"
+          }
+        },
+        {
+          "client_id": "885160215775-hkkvvhvme6qo8illtgp9hh89lpeb8mcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvM1fwNhvkM_FWV7M-M62R01iCGu5791Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885160215775-hkkvvhvme6qo8illtgp9hh89lpeb8mcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

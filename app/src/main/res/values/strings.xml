@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DİYETKOLİK</string>
+    <string name="header">Kayıtlı E-Posta Adresin İle Giriş Yap</string>
+    <string name="email">E-Posta</string>
+    <string name="password">Şifre</string>
+    <string name="logIn">Giriş</string>
+    <string name="signUp">Kaydol</string>
+    <string name="fullName">Ad Soyad</string>
+    <string name="passwordAgain">Şifre Tekrar</string>
+    <string name="userAgreement">Kullanıcı Sözleşmesi\'ni okudum ve kabul ediyorum.</string>
+    <string name="dataAgreement">Kişisel Veriler Sözleşmesi\'ni okudum ve kabul ediyorum.</string>
+    <string name="searchHint">Kaç Kalori ?</string>
+    <string name="add">Ekle</string>
+    <string name="remove">Çıkar</string>
+    <string name="counterPageHeader">GÜNLÜK KALORİ TÜKETİM MİKTARI</string>
+    <string name="cal">Calori</string>
+    <string name="itemName">Ürün Adı : </string>
+    <string name="itemAbout">Ürün Hakkında : </string>
+    <string name="itemCalori">Ürün Kalorisi : </string>
+    <string name="addItemPageHeader">ÜRÜN EKLE</string>
+    <string name="counterListHeader">Tüketilenler</string>
+    <string name="number">Adet : </string>
+    <string name="userPageHeader">KULLANICI BİLGİLERİ</string>
+    <string name="userMail">Kullanıcı Mail : </string>
+    <string name="userPassword">Kullanılan Şifre : </string>
+    <string name="userNewPassword">Yeni Şifre : </string>
+    <string name="userNewPasswordAgain">Yeni Şifre Tekrar : </string>
+    <string name="userUpdatePassword">Şifre Güncelle</string>
+    <string name="logOut">Çıkış Yap</string>
+</resources>
